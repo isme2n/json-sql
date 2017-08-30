@@ -1,0 +1,100 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "json-sql",
+        "scope": null,
+        "escapedName": "json-sql",
+        "name": "json-sql",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/Users/bagmin/dev/gitTest/vue2-admin-lte/server"
+    ]
+  ],
+  "_from": "json-sql@latest",
+  "_id": "json-sql@0.3.11",
+  "_inCache": true,
+  "_location": "/json-sql",
+  "_nodeVersion": "4.8.1",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/json-sql-0.3.11.tgz_1498744446700_0.05350639880634844"
+  },
+  "_npmUser": {
+    "name": "isme2n",
+    "email": "zooqzqz@gmail.com"
+  },
+  "_npmVersion": "2.15.12",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "json-sql",
+    "scope": null,
+    "escapedName": "json-sql",
+    "name": "json-sql",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/json-sql/-/json-sql-0.3.11.tgz",
+  "_shasum": "818f5b651799acbd39a9a3ad89bc6622e747141e",
+  "_shrinkwrap": null,
+  "_spec": "json-sql",
+  "_where": "/Users/bagmin/dev/gitTest/vue2-admin-lte/server",
+  "author": {
+    "name": "Artem Zhukov",
+    "email": "artzhuchka@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/2do2go/json-sql/issues"
+  },
+  "dependencies": {
+    "underscore": "1.8.2"
+  },
+  "description": "node.js json to sql queries mapper",
+  "devDependencies": {
+    "chai": "2.2.0",
+    "gulp": "^3.8.11",
+    "gulp-istanbul": "^0.10.0",
+    "gulp-jshint": "^1.10.0",
+    "gulp-mocha": "^2.0.1"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "818f5b651799acbd39a9a3ad89bc6622e747141e",
+    "tarball": "https://registry.npmjs.org/json-sql/-/json-sql-0.3.11.tgz"
+  },
+  "gitHead": "81b584734f968a6cf84d93c28c5fd34430ec8177",
+  "homepage": "https://github.com/isme2n/json-sql#readme",
+  "keywords": [
+    "json-sql",
+    "json",
+    "sql",
+    "odm",
+    "mapper",
+    "db",
+    "database"
+  ],
+  "license": "MIT",
+  "main": "./lib/index",
+  "maintainers": [
+    {
+      "name": "isme2n",
+      "email": "zooqzqz@gmail.com"
+    }
+  ],
+  "name": "json-sql-isme2n",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/isme2n/json-sql.git"
+  },
+  "scripts": {},
+  "version": "0.3.11"
+}
